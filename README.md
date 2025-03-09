@@ -5,6 +5,5 @@ A sleek and responsive shoe store website featuring curated collections, user au
 
 ## 📁 **Repository Contents:**  
 1. **Files:**  
-   - 🖥️ Three `.html` files for the representation of the webpages.  
-   - 🛠️ Three `.txt` files containing the code for **HTML**, **CSS**, and **JavaScript**.  
-   - 📂 An additional folder for images of the shoes displayed.  
+   - 🖥️ Three `.html` files ontaining the code for **HTML**, **CSS**, and **JavaScript**.  
+   - 🖼️ 12 images that are used in the website. 
