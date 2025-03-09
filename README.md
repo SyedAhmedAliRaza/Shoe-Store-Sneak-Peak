@@ -3,7 +3,6 @@ A sleek and responsive shoe store website featuring curated collections, user au
 
 > **NOTE:** This is not a working website but a model of a real one.  
 
----
 ## 📁 **Repository Contents:**  
 1. **Files:**  
    - 🖥️ Three `.html` files for the representation of the webpages.  
