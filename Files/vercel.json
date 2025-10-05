@@ -1,9 +1,3 @@
 {
-  "version": 2,
-  "routes": [
-    { "src": "/", "dest": "/login.html" },
-    { "src": "/home", "dest": "/home.html" },
-    { "src": "/login", "dest": "/index.html" },
-    { "src": "/(.*)", "dest": "/login.html" }
-  ]
+  "version": 2
 }
